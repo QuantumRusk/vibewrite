@@ -4,7 +4,7 @@ Transform your text with the power of AI. Professional, casual, funny, or custom
 
 ## ✨ Live Demo
 
-### 🚀 [**👉 Click Here to Launch VibeWrite Web App**](https://vibewrite-ten.vercel.app/) 
+### 🚀 [**👉 Click Here to Launch VibeWrite Web App**](https://vibewrite-ten.vercel.app/) {Deployment is currently off. Download the file locally and run it}
 
 ---
 
